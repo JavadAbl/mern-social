@@ -1,13 +1,13 @@
 {
-  "name": "backend",
+  "name": "merngram server",
   "version": "1.0.0",
-  "description": "mern blog backend",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Mohammad Javad Abolhassani Far",
   "keywords": [],
   "license": "ISC",
   "engines": {
